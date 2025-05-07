@@ -1,0 +1,85 @@
+<HTML>
+ <HEAD>
+     <TITLE>HORARIO</TITLE>
+  </HEAD>
+  <BODY>
+   <TABLE BORDER="0">
+   <TR>
+   <TD><img src="logo2.png" alt="logo cobaeh" width="300"></TD>
+   <TD><img src="educacion.png" alt="logo sep" width="300"></TD>
+   <TD><img src="hidalgo.jpeg" alt="logo hidalgo" width="300"></TD>
+   </TR>
+   <TR>
+   <TD COLSPAN="6"><CENTER><p style="font-size: 22px;">HORARIO DE GRUPO</p></CENTER></TD>
+   </TR>
+   <TR>
+    <TD>Plantel:Chilcuautla</TD>
+    <TD>Periodo Escolar:2025-A</TD> 
+    <TD>Fecha:Enero-2025</TD>
+   </TR>
+   <TR>
+    <TD>Semestre:Sexto</TD>
+    <TD>Turno:Matutino</TD>
+    <TD>Grupo:6101</TD>
+   </TR>
+   </TABLE>
+   
+   <TABLE BORDER="1">
+   <TR>
+    <TD>HORA</TD>
+    <TD>LUNES</TD>
+    <TD>MARTES</TD>
+    <TD>MIERCOLES</TD>
+    <TD>JUEVES</TD>
+    <TD>VIERNES</TD>
+    </TR>
+   <TR>
+    <TD>7:00 - 7:50</TD>
+    <TD>Paraescolar Voleibol</TD>
+    <TD>Calculo Integral</TD>
+    <TD>Temas Selectos de Ingles</TD>
+    <TD>Calculo Integral</TD>
+    <TD>Calculo Integral</TD>
+   </TR>
+   <TR>
+    <TD>8:00 - 8:50</TD>
+    <TD>Paraescolar Voleibol</TD>
+    <TD>Capacitacion Para el Trabajo</TD>
+    <TD>Ecologia y Medio Ambiente</TD>
+    <TD>Filosofia</TD>
+    <TD>Temas Selectos de Biologia</TD>
+   </TR>
+   <TR>
+    <TD>9:00 - 9:50</TD>
+    <TD>Ecologia y Medio Ambiente</TD> 
+    <TD>Capacitacion Para el Trabajo</TD>
+    <TD>Historia Universal y Contemporana</TD>
+    <TD>Capacitacion Para el Trabajo</TD>
+    <TD>Capacitacion Para el Trabajo</TD>
+   </TR>
+   <TR>
+    <TD>10:00 - 10:50</TD>
+    <TD>Capacitacion Para el Trabajo</TD>
+    <TD>Historia Universal y Contemporana</TD> 
+    <TD>Capacitacion Para el Trabajo</TD>
+    <TD>Capacitacion Para el Trabajo</TD>
+    <TD>Capacitacion Para el Trabajo</TD>
+   </TR>
+   <TR>
+    <TD>11:00 - 11:50</TD>
+    <TD>Capacitacion Para el Trabajo</TD>
+    <TD>Filosofia</TD>
+    <TD>Capacitacion Para el Trabajo</TD>
+    <TD>Temas Selectos de Ingles</TD>
+    <TD>Orietacion Vocacional</TD>
+   </TR>
+   <TR>
+    <TD>12:00 - 12:50</TD>
+    <TD>Historia Universal y Contemporana</TD> 
+    <TD>Derecho</TD>
+    <TD>Filosofia</TD>
+    <TD>Derecho</TD>
+    <TD>Derecho</TD>
+   </TR>
+   </BODY>
+   </HTML>

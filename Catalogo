@@ -1,0 +1,17 @@
+<HTML>
+ <HEAD>
+  <TITLE>CATALOGO</TITLE>
+ <HEAD>
+  <BODY BACKGROUND="fonde1.jpg">
+  	<CENTER><FONT COLOR="#3a9fb9"><H1>PRODUCTOS PARA EL CABELLO</H1></FONT></CENTER>
+  	<FONT COLOR="#496da2"><p style="font-size: 24px;">Garnier Fructis Borrador de Daño Control Grasa (shampoo 2 en 1)</p></FONT>
+  	<figure>
+  	  <img scr="producto2.jpg">
+  	</figure>
+  	<FONT COLOR="#000000"><p style="font-size: 20px;"><LI>Sirve para limpiar y reparar el cabello dañado, controlando el exceso grasa.</LI></p></FONT>
+  	<FONT COLOR="#496da2"><p style="font-size: 24px;">Garnier Super UV FPS 50+ (protector solar facial)</p></FONT>
+  	<FONT COLOR="#000000"><p style="font-size: 20px;"><LI>Es un proctetor solar con alto factor de proteccion, diseñado para proteger la piel contra los ratos UVB y UVA. </LI></p></FONT>
+  	<FONT COLOR="#496da2"><p style="font-size: 24px;">Garnier Whole Blends Hair Honey (serum rearador de miel)</p></FONT>
+  	<FONT COLOR="#000000"><p style="font-size: 20px;"><LI>Es un serum capilar reparador con miel ideal para reducir puntas abiertas. </LI></p></FONT>
+  </BODY>
+  </HTML>
